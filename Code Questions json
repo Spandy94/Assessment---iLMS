@@ -1,0 +1,46 @@
+{	
+	"instructions" : [
+			"Program should be written in python language.",
+			"Don't use loops in the program.",
+			"Don't use indexing in the program."
+	],
+	"questions" : [
+	  {
+		"key":"01",
+		"type": "Editor",
+		"question": "Write a python program to add two strings"
+	  },
+    
+    {
+		"key":"02",
+		"type": "Editor",
+		"question": "Given Principle(p), Rate of Interest(r), and time(t) in years, calculate and print the
+simple interest for the given inputs."
+	  },
+    
+    {
+		"key":"03",
+		"type": "Editor",
+		"question": "Given the perimeter of a rectangle in meters and the difference between length and
+breadth of a rectangle in meters, calculate and print the Area of the rectangle in
+meter^2"
+	  },
+    
+    {
+		"key":"04",
+		"type": "Editor",
+		"question": "Given the cost price(cp) in rupees and loss percentage (lossPercent) of an object
+that was sold. You need to calculate and print the selling price of that object.
+Note:
+All the inputs will be given in floats and your output also need to be in floats."
+	  },
+    
+    {
+		"key":"05",
+		"type": "Editor",
+		"question": "Given the distance traveled by a person in meters and time taken to travel that
+distance in minutes. Calculate and print the speed of the person in km/hour."
+	  },
+        
+	]
+}
